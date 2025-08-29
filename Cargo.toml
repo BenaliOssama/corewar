@@ -1,4 +1,4 @@
 [workspace]
 members = [
-	"assembler", "vm",
+	"assembler", "config", "vm", "bonus", "cpu",
 ]
